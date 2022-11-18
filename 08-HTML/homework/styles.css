@@ -1,0 +1,25 @@
+
+h1 {color: lightgreen}
+
+img { width: 400px}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: darkgoldenrod;
+    padding: 50px;
+     border: 10px solid lightyellow;
+     
+}
+
+#spanId {
+     font-size: 18px;
+     margin: 50px;
+}
+body {
+     background-image: url("https://media.istockphoto.com/vectors/doodle-hamburger-seamless-pattern-background-vector-id520709350?k=20&m=520709350&s=612x612&w=0&h=Pg4Lj5csyV21bdJZAusf5DcofI1-3LoBQyKnDxi9Peg=");   
+}
+div{
+     position: relative;
+     left: 700px;
+}
